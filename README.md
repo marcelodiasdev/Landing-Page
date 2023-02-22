@@ -1,7 +1,7 @@
 # Landing-Page
 Landing-Page 
 
-<img src="gif.mp4">
+<img src="/gi.gif">
 
 
 ## Utilizando :
